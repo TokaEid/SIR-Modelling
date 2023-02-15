@@ -32,3 +32,17 @@ Equation 1 captures how susceptible people are made sick by infectious people by
 * [The SIR Model of Disease Spread (MAA)](https://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease)
 * [Kermack-McKendrick Model (Wolfram MathWorld)](https://mathworld.wolfram.com/Kermack-McKendrickModel.html)
 * [A SIR model assumption for the spread of COVID-19 in different communities (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7321055/)
+
+## Project Guidelines
+In this project, you'll work as a group to model how a new disease spreads throughout a population.  Hopefully, this is something everyone can relate to. You'll share a repository on GitHub which will contain Python code, scripts for submitting jobs on Midway, and your report.
+
+The midterm checkpoint will consist of implementing:
+1. A discrete agent-based simulation
+2. A continuous / ODE simulation
+
+You'll set up some scripts to run simulations on the Midway compute cluster, run these models with some different parameters, and make a preliminary report on your initial findings. You will also propose some variations on this theme to run in the final submission.
+
+For the final submission, each group should add a 2-dimensional spatial component to both the agent-based and continuous models. You should implement and report your proposed variation of the agent-based or continuous model (from the midterm checkpoint) as part of the final submission.
+
+Your final report should contain a description of the models, the variations/interventions you investigated, and your findings. 
+
