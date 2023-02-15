@@ -46,3 +46,5 @@ For the final submission, each group should add a 2-dimensional spatial componen
 
 Your final report should contain a description of the models, the variations/interventions you investigated, and your findings. 
 
+## Code Structure
+The details of our code structure and our packages can be found in /doc/checkpoint/midterm_report.md
