@@ -1,0 +1,15 @@
+README.md
+setup.py
+sir/__init__.py
+sir/discreteSim.py
+sir/discreteSim_spatial.py
+sir/odeSim.py
+sir/odeSim_spatial.py
+sir/variation_2.py
+sir.egg-info/PKG-INFO
+sir.egg-info/SOURCES.txt
+sir.egg-info/dependency_links.txt
+sir.egg-info/requires.txt
+sir.egg-info/top_level.txt
+sir.egg-info/zip-safe
+test/test.py
